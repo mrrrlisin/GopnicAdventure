@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 67c3f7d03e5435a469b0b5ea8e89bf3c
+timeCreated: 1511276167
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: DS VTCorona Cyr
+  fontNames:
+  - DS VTCorona Cyr
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
